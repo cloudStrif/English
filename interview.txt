@@ -1,0 +1,11 @@
+The last time , in english lesson we had the chance to have with us an expert of computer science.
+She begun her studies in Math and generals fields.But She would sooner work on computer science field.
+She has 2 passion :computer science ,in particular programation , and Art ,that is why after years of 
+professional experiances on several field of computer science (programming with assembler , Haskell,
+fortran ..) she studied in Ecole du Louvre ,when she came to France.She is now an expert of website composition
+,she used WordPress, a framework.
+
+We asked lot of questions , and we know now that ,she prefers Assembler language , ans she loves programming
+(like an art) , she did a lot of things in art.
+She has a little sheet of paper with all things we have to know in assembler , it is very usefull ,particularly,
+before the extension of the Internet.
