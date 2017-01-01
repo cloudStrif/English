@@ -1,2 +1,6 @@
 qui est goku ?,un super sayen,2,manga,12-12-2017
+qui est vegeta?,un super sayen 3,2,manga,12-10-2017
+pourquoi dors t on?,pour se reposer,5,culture,12-10-2017
+quand est mort michael jackson?,jamais,4,culture,12-02-2017
+
 
