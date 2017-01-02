@@ -8,3 +8,4 @@ le nom d'un gateau au riz?,honigiri,4,comics,11-10-2017
 qui est louis X?,un roi,5,histoire,11-05-2017
 izaya ?,un homme,2,manga,12-10-2017
 comment tuer?,utiliser un couteau,2,culture,05-10-2017
+qui est henri tran?,youtuber,2,culture,05-10-2017
