@@ -1,11 +1,11 @@
-qui est goku ?,un super sayen,2,manga,12-12-2017
-qui est vegeta?,un super sayen 3,2,manga,12-10-2017
-pourquoi dors t on?,pour se reposer,5,culture,12-10-2017
-quand est mort michael jackson?,jamais,4,culture,12-02-2017
-qui est nadal ?,un tennisman,1,culture,12-10-2012
-qui est ironman?,tony stark,2,manga,12-10-2017
-le nom d'un gateau au riz?,honigiri,4,comics,11-10-2017
-qui est louis X?,un roi,5,histoire,11-05-2017
-izaya ?,un homme,2,manga,12-10-2017
-comment tuer?,utiliser un couteau,2,culture,05-10-2017
-qui est henri tran?,youtuber,2,culture,05-10-2017
+qui est goku ?,un super sayen,2,manga
+qui est vegeta?,un super sayen 3,2,manga
+pourquoi dors t on?,pour se reposer,5,culture
+quand est mort michael jackson?,jamais,4,culture
+qui est nadal ?,un tennisman,1,culture
+qui est ironman?,tony stark,2,manga
+le nom d'un gateau au riz?,honigiri,4,comics
+qui est louis X?,un roi,5,histoire
+izaya ?,un homme,2,manga
+comment tuer?,utiliser un couteau,2,culture
+qui est henri tran?,youtuber,2,culture
