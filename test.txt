@@ -5,7 +5,4 @@ quand est mort michael jackson?,jamais,4,culture
 qui est nadal ?,un tennisman,1,culture
 qui est ironman?,tony stark,2,manga
 le nom d'un gateau au riz?,honigiri,4,comics
-qui est louis X?,un roi,5,histoire
-izaya ?,un homme,2,manga
-comment tuer?,utiliser un couteau,2,culture
-qui est henri tran?,youtuber,2,culture
+
